@@ -11,4 +11,4 @@ Rozwiązania, technologie i narzędzia:
   * RWD
   * npm (task runner)
   
-  <a href="https://michalmatysiak.github.io/JavaScript-Game-RockPaperScissors/" target:"_blank">live preview</a>
+  <a href="https://michalmatysiak.github.io/JavaScript-Game-RockPaperScissors/">live preview</a>
