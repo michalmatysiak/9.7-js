@@ -10,3 +10,5 @@ Rozwiązania, technologie i narzędzia:
   * Sass
   * RWD
   * npm (task runner)
+  
+  <a href="https://michalmatysiak.github.io/JavaScript-Game-RockPaperScissors/" target:"_blank">live preview</a>
